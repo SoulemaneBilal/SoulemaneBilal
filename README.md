@@ -36,15 +36,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoulemaneBilal&show_icons=true&theme=radial&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulemaneBilal&layout=compact&theme=radial" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 *   💼 **LinkedIn:** [Your LinkedIn Profile Name](www.linkedin.com/in/bilali-soulemane)
