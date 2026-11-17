@@ -1,4 +1,4 @@
-# Hi there, I'm Bilali Soulemane — Data Scientist & AI/MLOps Engineer 
+# Hi there, I'm Bilali Soulemane : Data Scientist & AI/MLOps Engineer 
 
 > **Mathematics Enthusiast** turned AI Practitioner & Product Owner, passionate about building scalable AI systems and interoperable digital health platforms. Linux-powered 🐧 (Fedora & Ubuntu lover).
 
