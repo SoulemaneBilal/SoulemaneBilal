@@ -24,13 +24,13 @@
 *   **Serving & APIs:** Docker, FastAPI, Streamlit, BentoML
 *   **Operating Systems:** Fedora Linux, Ubuntu Server, Bash Scripting
 
-### 🏥 Health Tech Standards & Systems
+### Health Tech Standards & Systems
 *   **Interoperability Standards:** HL7 FHIR (Fast Healthcare Interoperability Resources)
 *   **Health Information Systems:** DHIS2 APIs & Custom Integrations
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
-*   💼 **LinkedIn:** [Bilali Soulemane](https://www.linkedin.com/in/bilali-soulemane)
-*   🐙 **GitHub:** [@bilalisoulemane](https://github.com/bilalisoulemane) *(Remplacez par votre vrai lien si besoin)*
+*   **LinkedIn:** [Bilali Soulemane](https://www.linkedin.com/in/bilali-soulemane)
+*   **Email:** [Bilali SOULEMANE](soulemanebilal74@gmail.com)
